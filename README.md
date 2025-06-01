@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# dd
+=======
+>>>>>>> b36b9ab (new commit)
 dfd
 ==============================
 
@@ -55,3 +61,7 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<<<<<<< HEAD
+=======
+>>>>>>> a6d2237 (new commit)
+>>>>>>> b36b9ab (new commit)
